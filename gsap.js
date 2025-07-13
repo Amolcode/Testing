@@ -52,3 +52,4 @@
 // NAVBAR GSAP code START FROM HERE
 
 var tl = gsap.timeline();
+console.log("hey there i am making chnges")
